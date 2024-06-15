@@ -30,14 +30,14 @@ Account creation in progress
 <br>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500" src="https://github-profile-trophy.vercel.app/?username=davidoaprendiz&theme=algolia&no-frame=true&row=2&column=4" alt="Trophies"></a>
+<img width="500" src="https://github-profile-trophy.vercel.app/?username=davidoaprendiz&theme=algolia&no-frame=true&row=2&column=4" alt="Trophies"></a>
 </P>
 
 ---
 
 <br>
 <p align="center"><img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidoaprendiz&show_icons=true&locale=en&theme=blue-green&hide_border=true&border_radius=20&langs_count=7" alt="Top-Languages"/>
-  <br><br><a href="https://git.io/streak-stats"><img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=davidoaprendiz&theme=blue-green&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub-Streak" /></a>
+  <br><br><img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=davidoaprendiz&theme=blue-green&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub-Streak" /></a>
   <br><br><img width="500" src="https://github-readme-stats.vercel.app/api?username=davidoaprendiz&show_icons=true&locale=en&theme=blue-green&hide_border=true&border_radius=20" alt="Github-Stats"/>
 </p> 
 
