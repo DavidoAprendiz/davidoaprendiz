@@ -65,17 +65,17 @@ books and videos and other minor certifications 😇
 <br>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/rusty-block"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=rusty-block&theme=blue-green" alt="Rusty Block"> </a>
+<a href="https://github.com/DavidoAprendiz/rusty-block"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=rusty-block&theme=blue-green" alt="Rusty Block"> </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/Rust-in-Progress"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Rust-in-Progress&theme=blue-green" alt="Apps made in Rust"></a>
-<a href="https://github.com/DavidoAprendiz/Ghost-Chains"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Ghost-Chains&theme=blue-green" alt="Game based on Cardano and Ergo"></a>
+<a href="https://github.com/DavidoAprendiz/Rust-in-Progress"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Rust-in-Progress&theme=blue-green" alt="Apps made in Rust"></a>
+<a href="https://github.com/DavidoAprendiz/Ghost-Chains"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Ghost-Chains&theme=blue-green" alt="Game based on Cardano and Ergo"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/ergo-miner-calc"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=ergo-miner-calc&theme=blue-green" alt="Calculator for Ergo Miners"></a>
-<a href="https://github.com/DavidoAprendiz/queries-scripts-challenges"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=queries-scripts-challenges&theme=blue-green" alt="Multiple scripts"></a>
+<a href="https://github.com/DavidoAprendiz/ergo-miner-calc"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=ergo-miner-calc&theme=blue-green" alt="Calculator for Ergo Miners"></a>
+<a href="https://github.com/DavidoAprendiz/queries-scripts-challenges"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=queries-scripts-challenges&theme=blue-green" alt="Multiple scripts"></a>
 </p>
 
 <br>
