@@ -5,7 +5,7 @@
 - 🌍 I'm from Portugal
 - 🌱 I’m currently learning <b>Rust 🦀</b>
 - 👯 I’m looking to collaborate on <b>Blockchain</b> projects (<b>Cardano and Ergo are in my hearth)</b>
-- ⚡ Fun fact: ☕ Coffee is a fruit! 🌐 World is Open Source! 
+- ⚡ Fun facts: ☕ Coffee is a fruit! 🌐 World is Open Source! 
 
 <h2>📫 How to reach me</h2>
 
@@ -65,16 +65,17 @@ books and videos and other minor certifications 😇
 <br>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/Ghost-Chains"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Ghost-Chains&theme=blue-green" alt="Game based on Cardano and Ergo"> </a>
+<a href="https://github.com/DavidoAprendiz/rusty-block"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=rusty-block&theme=blue-green" alt="Rusty Block"> </a>
 </p>
+
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/ergo-miner-calc"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=ergo-miner-calc&theme=blue-green" alt="Calculator for Ergo Miners"> </a>
+<a href="https://github.com/DavidoAprendiz/Rust-in-Progress"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Rust-in-Progress&theme=blue-green" alt="Apps made in Rust"></a>
+<a href="https://github.com/DavidoAprendiz/Ghost-Chains"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Ghost-Chains&theme=blue-green" alt="Game based on Cardano and Ergo"></a>
 </p>
+
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/Rust-in-Progress"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Rust-in-Progress&theme=blue-green" alt="Apps made in Rust"> </a>
-</p>
-<p align="center">
-<a href="https://github.com/DavidoAprendiz/queries-scripts-challenges"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=queries-scripts-challenges&theme=blue-green" alt="Apps made in Rust"> </a>
+<a href="https://github.com/DavidoAprendiz/ergo-miner-calc"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=ergo-miner-calc&theme=blue-green" alt="Calculator for Ergo Miners"></a>
+<a href="https://github.com/DavidoAprendiz/queries-scripts-challenges"><img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=queries-scripts-challenges&theme=blue-green" alt="Multiple scripts"></a>
 </p>
 
 <br>
@@ -82,19 +83,3 @@ books and videos and other minor certifications 😇
 ---
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="175">
-
-
-<!--
-**DavidoAprendiz/davidoaprendiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
