@@ -46,9 +46,6 @@ books and videos and other minor certifications 😇
 <br>
 
 <h2>🚀Badge/s</h2>
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/DavidoAprendiz"><img width=300 src="https://www.codewars.com/users/DavidoAprendiz/badges/large" alt="Codewars Badge"></a>
-</p>
 
 <br>
 
@@ -65,7 +62,7 @@ books and videos and other minor certifications 😇
 <br>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/rusty-block"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=rusty-block&theme=blue-green" alt="Rusty Block"> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/DavidoAprendiz"><img width=300 src="https://www.codewars.com/users/DavidoAprendiz/badges/large" alt="Codewars Badge"></a>
 </p>
 
 <p align="center">
