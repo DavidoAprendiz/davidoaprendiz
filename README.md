@@ -66,7 +66,7 @@ books and videos and other minor certifications 😇
 </p>
 
 <p align="center">
-<a href="https://github.com/DavidoAprendiz/Rust-in-Progress"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Rust-in-Progress&theme=blue-green" alt="Apps made in Rust"></a>
+<a href="https://github.com/DavidoAprendiz/CMD-Manager"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=CMD-Manager&theme=blue-green" alt="Apps made in Rust"></a>
 <a href="https://github.com/DavidoAprendiz/Ghost-Chains"><img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DavidoAprendiz&repo=Ghost-Chains&theme=blue-green" alt="Game based on Cardano and Ergo"></a>
 </p>
 
