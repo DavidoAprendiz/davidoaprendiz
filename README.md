@@ -5,23 +5,27 @@
 - 🌍 I'm from Portugal
 - 🌱 I’m currently learning <b>Rust 🦀</b>
 - 👯 I’m looking to collaborate on <b>Blockchain</b> projects (<b>Cardano and Ergo are in my hearth)</b>
-- ⚡ Fun facts: ☕ Coffee is a fruit! 🌐 World is Open Source! 
+- ⚡ Fun facts: ☕ Coffee is a fruit! 🌐 World is Open Source! Dogs are everything! 🐶
 
-<h2>📫 How to reach me</h2>
-
+<br>
+📫 Send me a message 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/David_oAprendiz"><img title="Reach to me on X" src="https://img.shields.io/badge/David-000000?style=for-the-badge&logo=x&logoColor=white" alt="followers"/></a>
 </p>
 
+<h2>Tech</h2>
+
+<p align="center">
+<img alt="Programming Languages and Tools" src="https://skillicons.dev/icons?i=rust,python,godot,js,html,css,sqlite,git,docker,azure,windows,linux">
+</p>
 
 <h2>📃 What I did with my life</h2>
 
-Learning is my superpower! And it's not representing the countless hours of learning through 
-books and videos and other minor certifications 😇
+Learning is my superpower! 😇
 
 <h3>Certificates</h3>
 
-&nbsp;&nbsp;(Technical skills)
+<h4>Technical skills</h4>
 
   - Microsoft 💻
     - MCSA: Windows 10 - Certified 2018 (Exam 687 and 698)
@@ -33,7 +37,7 @@ books and videos and other minor certifications 😇
     - Python Fundamentals Track
     - Python Programming Track
 
- &nbsp;&nbsp;(Soft skills)
+ <h4>Soft skills</h4>
 
   - Nau - Sempre a aprender 📚
     - "Língua portuguesa em contexto de escrita académica"
