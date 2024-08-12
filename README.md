@@ -9,20 +9,20 @@
   - ☕ Coffee is a fruit!
   - 🌐 World is (should be) Open Source! 
   - 🐶 Dogs are everything!
-  - Learning is my superpower! 😇
+  - Learning is my hobby! 😇
 
 <br>
-<b>
 
-- 📫 Send me a message
+<h3> 📫 Send me a message </h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/David_oAprendiz"><img title="Reach to me on X" src="https://img.shields.io/badge/David_oAprendiz-black?logo=x"></a>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:davidoaprendiz@proton.me"><img title="Reach to me via email" src="https://img.shields.io/badge/davidoaprendiz@proton.me-blue?logo=protonmail"></a>
 
-- 🧑‍🏫 Or if you would like to learn a new language, you can reach me on Preply
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/David_oAprendiz"><img title="Reach to me on X" src="https://img.shields.io/badge/DavioAprendiz-black?logo=x"></a>
+</p>
+<h3> 🧑‍🏫 Or if you would like to learn a new language, you can reach me on Preply </h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://preply.com/en/tutor/4437174"><img title="Reach to me on Preply" src="https://img.shields.io/badge/Preply-David O.-pink"></a>
 
-</b>
 
 <h2>Tech</h2>
 
